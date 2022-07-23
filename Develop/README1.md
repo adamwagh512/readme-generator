@@ -1,4 +1,4 @@
-# Readme Generator
+# README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents 
 
@@ -18,19 +18,19 @@
 [Questions](#questions)
 
 ## Description
-This project will generate a readme file
+This is a README file generator.It allows users to generate readme files based on the answers to a few simple questions. It was built to satisfy the requirments of challenge 9 from the UT Austin Coding Bootcamp. The purpose of this project is to demonstrate everything we have learned through Unit 9. 
 
 ## Installation Instructions
-you download the file and open it up in command terminal
+To install the app you must first go to https://github.com/adamwagh512/readme-generator and download the files. Once you have the files, you can open them up in your VS Code integrated command terminal. Once in the code type 'npm -i' to download all needed files. 
 
 ## User Instructions 
-Watch the video
+Once the program is installed, go to the command line and type 'node index.js' to run the program. Answer all of the questions appropriately. Once all the questions have been answered, you will see a file named README1 appear in your file explorer on the left hand side of your screen. Open that file and enjoy!
 
 ## Contributing
-Contact me on my github
+This project is finished, but check me out on Github to see what I am up to next. Thank you for your interest. While we are on the topic I would like to thank my tutor Jack for all of his invaluable help during this project
 
 ## Testing
-We are testing it now
+Testing protocols  have  not been written into this project, but if you like testing check out my unit 10 challenge!
 
 ## License 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
